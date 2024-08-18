@@ -1,0 +1,75 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Meeting with ALICE",
+      "date": "2024-08-20"
+    },
+    {
+      "0": {
+        "id": "1",
+        "event": "meeting with Alice",
+        "date": "25-08-2024"
+      },
+      "id": "6ea3"
+    },
+    {
+      "id": 1723827614956,
+      "title": "Meeting with alice",
+      "date": "2024-08-25",
+      "category": "Work"
+    },
+    {
+      "id": 1723827647362,
+      "title": "Meeting with bob",
+      "date": "2024-08-25",
+      "category": "Work"
+    },
+    {
+      "id": 1723827943419,
+      "title": "dentist appointment",
+      "date": "2024-08-18",
+      "category": "Work"
+    },
+    {
+      "0": {
+        "id": "2",
+        "event": "meeting with Alexe",
+        "date": "28-08-2024"
+      },
+      "id": "b6ca"
+    },
+    {
+      "0": {
+        "id": "3",
+        "event": "meeting with Ale",
+        "date": "31-08-2024"
+      },
+      "id": "30f0"
+    },
+    {
+      "id": 1723984893761,
+      "title": "Meeting with bob",
+      "date": "2024-08-15",
+      "category": "Work"
+    },
+    {
+      "id": 1723984936038,
+      "title": "meeting with hao",
+      "date": "2024-08-18",
+      "category": "Work"
+    },
+    {
+      "id": 1723985379044,
+      "title": "Meeting withBob",
+      "date": "2024-08-23",
+      "category": "Personal"
+    },
+    {
+      "id": 1723985487610,
+      "title": "Meeting with alice",
+      "date": "2024-08-15",
+      "category": "Work"
+    }
+  ]
+}
